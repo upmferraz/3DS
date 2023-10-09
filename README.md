@@ -3,7 +3,5 @@ This repository contains some textures that I've upscaled using Upscayl: https:/
 
 They are to be used on Citra Emulator: citra-emu.org
 
-Filesize optimized using Yoga: https://yoga.flozz.org/
-
-I know that some of them will be probably incomplete. :)
+I know that some of them will be probably incomplete, and I will try to optimize the file size. :)
 enjoy.
